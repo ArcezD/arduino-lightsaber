@@ -1,5 +1,5 @@
 /*
-     SUPER-DUPER COOL ARDUINO BASED MULTICOLOR SOUND PLAYING LIGHTSABER!
+  SUPER-DUPER COOL ARDUINO BASED MULTICOLOR SOUND PLAYING LIGHTSABER!
    HARDWARE:
      Addressable LED strip (WS2811) to get any blade color and smooth turn on effect
      MicroSD card module to play some sounds
